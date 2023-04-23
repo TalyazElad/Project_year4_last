@@ -19,5 +19,7 @@ run this in the terminal/CMD and you will have a webpage:
 <img width="851" alt="image" src="https://user-images.githubusercontent.com/96494083/233859240-4fa1a4e2-6333-4499-ab82-06f9b99a60bb.png">
 
 Browse the video you want to get the metrics about, wait to the results and thats it!
+
 Thanks,
+
 Elad Talyaz and Yael Biton
